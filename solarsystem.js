@@ -6,9 +6,9 @@ var earth = new Image();
 var moon = new Image();
 var sun = new Image(); 
 
-earth.src = './Image/animations_earth.png';
-moon.src = './Image/animations_moon.png';
-sun.src = './Image/animations_sun.png';
+earth.src = './image/animations_earth.png';
+moon.src = './image/animations_moon.png';
+sun.src = './image/animations_sun.png';
 
 function draw () {
     ctx.fillStyle = 'black';
